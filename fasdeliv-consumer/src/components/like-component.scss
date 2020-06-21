@@ -1,0 +1,21 @@
+*:focus {
+  outline: none;
+}
+
+.card-item {
+  position: relative;
+}
+
+.like__btn {
+  position: absolute;
+  margin: 0;
+  top: 0.5rem;
+  right: 0.5rem;
+  border: none;
+
+  .like__icon {
+    font-size: 1.2rem;
+    color: rgba(#e74c3c, 0.8);
+  }
+}
+
