@@ -124,7 +124,7 @@ class DetailComponent extends Component {
 
         {
           this.state.employee.id
-            ? <p>{config.detailDescriptionSelected}: {this.state.employee.id}</p>
+            ? <p>{config.detailDescriptionSelected}: <b>{this.state.employee.id}</b></p>
             : <p>{config.detailDescription}</p>
         }
         
