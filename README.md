@@ -28,7 +28,7 @@ fasdeliv-admin/
         DetailComponent.js
         ActionBarComponent.js
 ```
-Note: to change the configuration, you can edit the `config.js` file
+Note: To change the configuration, you can edit the `config.js` file
 
 ## Available Scripts
 
@@ -47,7 +47,7 @@ The page will reload if you make edits.
 You will also see any lint errors in the console.
 
 ## Supported Browsers
-The ideal environment to run application: 
+The ideal environment to run the application: 
 * Google Chrome v83.0.4103.106
 * Windows 10
 
@@ -68,12 +68,12 @@ This is the page's interface after selecting an employee
 
 ![export](https://i.ibb.co/GMQtFCD/export.png)
 
-And in `import` function, after click the import button, the application will display an input used to import the sample file. After you import this file, the application will reload the page, displaying the screen configured in the file.
+And in the `import` function, after clicking the import button, the application will display an input used to import the sample file. After you import this file, the application will reload the page, displaying the screen configured in the file.
 
 ![import](https://i.ibb.co/5nvP56C/import.png)
 
 To edit employee information, you will have several main functions:
-* `Save` always available, save current state.
+* `Save` always available, save the current state.
 * `Undo` is an activity that brings the application to an earlier state with a jump of 1: S [n] → S [n-1] →… → S [1] → S [0]. This means that you can only perform Undo when you are in S [i] state, with i> 0.
 * `Redo` is an activity that brings the application to a newer state with a step of 1: S [0] → S [1] →… → S [n-1] → S [n]. This means that you can only perform Redo when you are in S [i] state with i <n.
 * `Drag-Drop` in this function, the application allows you to drag and drop the position of the input (in the personal information section) as you like.
@@ -85,7 +85,7 @@ Note: the new status will be operations related to data changes or drag-drop the
 
 # Fasdeliv Consumer
 
-This sub-project is consumer site, used to present employee list taken from [Dummy Page](dummy.restapiexample.com)
+This sub-project is the consumer site, used to present the employee list taken from [Dummy Page](dummy.restapiexample.com)
 
 ## Folder Structure
 
@@ -156,7 +156,7 @@ This is the page's interface after selecting an employee
 
 ![page-selected](https://i.ibb.co/mSxS3sh/consumer-selected.png)
 
-Interact with the products by Like button
+Interact with the employees by Like button
 
 ![like](https://i.ibb.co/P1jYyX9/consumer-like.png)
 
