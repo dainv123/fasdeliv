@@ -172,6 +172,6 @@ Interact with the employees by Like button
 | Admin - Optimize source code  | 3h  | 21/06/2020 | 21/06/2020 |
 | Consumer - Setup app, install packages  | 0.5h  | 19/06/2020 | 19/06/2020 |
 | Consumer - Create component layouts  | 2h  | 21/06/2020 | 21/06/2020 |
-| Consumer - Integrated list management function | 1.5h  | 21/06/2020 | 21/06/2020 |
+| Consumer - Integrated empoyees function | 0.5h  | 21/06/2020 | 21/06/2020 |
 | Consumer - Like button  | 0.5h  | 21/06/2020 | 21/06/2020 |
 | Consumer - Optimize source code  | 1h  | 21/06/2020 | 21/06/2020 |
