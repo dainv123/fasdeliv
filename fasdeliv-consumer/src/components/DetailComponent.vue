@@ -3,7 +3,7 @@
     <h3>{{ config.detailTitle }} &rarr;</h3>
 
     <p v-if="employee.id">
-      {{ config.detailDescriptionSelected }}: {{ employee.id }}
+      {{ config.detailDescriptionSelected }}: <b>{{ employee.id }}</b>
     </p>
     <p v-else>
       {{ config.detailDescription }}
