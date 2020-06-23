@@ -164,7 +164,7 @@ Interact with the employees by Like button
 
 | Task  | Time | Start Day  | End Day |
 | ------------- | ------------- | ------------- | ------------- |
-| Analyze, design mockups  | 4h | 06/19/2020 | 19/06/2020 |
+| Analyze, design mockups  | 4h | 19/06/2020 | 19/06/2020 |
 | Admin - Setup app, install packages  | 1h  | 19/06/2020 | 19/06/2020 |
 | Admin - Create component layouts  | 4h  | 20/06/2020 | 20/06/2020 |
 | Admin - Integrated list management function | 3h  | 20/06/2020 | 20/06/2020 |
